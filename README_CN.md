@@ -31,6 +31,7 @@
 - [x] [Gahotx](https://gahotx.cn/)
 - [x] [FiveFire2021](https://fivefire2021.github.io/)
 - [x] [NikoのBlog](https://niko-karen.github.io)
+- [x] [常瑞的部落落](https://blog.geek.tax/)
 
 ## 快速上手
 
